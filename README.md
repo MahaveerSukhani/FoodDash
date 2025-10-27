@@ -35,11 +35,6 @@ FoodDash is a cross-platform mobile app for seamless food delivery, built using 
 ```bash
 git clone https://github.com/your-username/foodDash.git
 cd foodDash
-Install dependencies:
-
-bash
-Copy
-Edit
 npm install
 Set up Firebase:
 
@@ -64,21 +59,6 @@ FIREBASE_APP_ID=your_app_id
 Run the app:
 
 npx expo start
-
-Scan the QR code using Expo Go (on Android/iOS) to preview the app.
-
-
-📸 Screenshots
-
-
-(Add screenshots of Home, Login, Food Menu, Cart, etc.)
-
-
-
-npx expo start
-
-Use the expo client app or simulator/emulator to preview.
-
 
 
 🧑‍💻 Authors
